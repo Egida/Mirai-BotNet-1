@@ -1,7 +1,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT--3.0-brightgreen.svg?style=flat-square)](LICENSE)
 
 
-## Password Generator
+## Mirai BotNet
 
 ```
 Mirai BotNet | I am not responsible for any illegal activities.
